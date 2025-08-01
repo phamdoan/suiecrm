@@ -1,0 +1,38 @@
+<?php
+// created: 2025-07-31 16:12:45
+$mod_strings = array (
+  'LBL_MODULE_NAME' => 'Tiền tệ',
+  'LBL_LIST_FORM_TITLE' => 'Tiền tệ',
+  'LBL_CURRENCY' => 'Tiền tệ',
+  'LBL_ADD' => 'Thêm',
+  'LBL_MERGE' => 'Hợp nhất',
+  'LBL_MERGE_TXT' => 'Vui lòng chọn đơn vị tiền tệ bạn muốn ánh xạ cho các loại tiền tệ đã chọn. Điều này sẽ xóa tất cả các loại tiền tệ với một dấu kiểm và gán giá trị bất kỳ liên kết với họ để lựa chọn đơn vị tiền tệ.',
+  'LBL_US_DOLLAR' => 'Đô-la Mỹ',
+  'LBL_DELETE' => 'Xóa',
+  'LBL_LIST_SYMBOL' => 'Biểu tượng loại tiền',
+  'LBL_LIST_NAME' => 'Tên loại tiền',
+  'LBL_LIST_ISO4217' => 'Mã ISO 4217',
+  'LBL_LIST_ISO4217_HELP' => 'Nhập mã ISO 4217 của ba ký tự xác định tiền tệ tên và các ký hiệu tiền tệ.',
+  'LBL_UPDATE' => 'Cập nhật',
+  'LBL_LIST_RATE' => 'Tỷ lệ chuyển đổi',
+  'LBL_LIST_RATE_HELP' => 'Một tỷ lệ chuyển đổi 0,5 Euro có nghĩa là USD = 5 10 Euro.',
+  'LBL_LIST_STATUS' => 'Tình trạng',
+  'LNK_NEW_CONTACT' => 'Khách hàng mới',
+  'LNK_NEW_ACCOUNT' => 'Khách hàng mới',
+  'LNK_NEW_OPPORTUNITY' => 'Cơ hội mới',
+  'LNK_NEW_CASE' => 'Vụ việc mới',
+  'LNK_NEW_NOTE' => 'Tạo Ghi chú hoặc Đính kèm',
+  'LNK_NEW_CALL' => 'Cuộc gọi mới',
+  'LNK_NEW_EMAIL' => 'Email mới',
+  'LNK_NEW_MEETING' => 'Họp mới',
+  'LNK_NEW_TASK' => 'Tạo Tác vụ',
+  'NTC_DELETE_CONFIRMATION' => 'Bạn có chắc bạn muốn xóa hồ sơ này? Bất kỳ bản ghi bằng cách sử dụng loại tiền tệ này sẽ được chuyển đổi sang các loại tiền tệ mặc định hệ thống khi chúng được truy cập. Nó có thể tốt hơn để thiết lập tình trạng không hoạt động.',
+  'LBL_BELOW_MIN' => 'Tỷ lệ chuyển đổi phải lớn hơn 0',
+  'currency_status_dom' => 
+  array (
+    'Active' => 'Đang hoạt động',
+    'Inactive' => 'Không hoạt động',
+  ),
+  'LBL_CREATED_BY' => 'Khởi tạo bởi',
+  'LBL_EDIT_LAYOUT' => 'Sửa khung',
+);

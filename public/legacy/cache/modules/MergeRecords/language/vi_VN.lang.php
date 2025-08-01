@@ -1,0 +1,28 @@
+<?php
+// created: 2025-07-31 16:12:46
+$mod_strings = array (
+  'LBL_MODULE_NAME' => 'Hợp nhất các bản ghi',
+  'LBL_MODULE_TITLE' => 'Hợp nhất các bản ghi: Trang chủ',
+  'LBL_SEARCH_FORM_TITLE' => 'Tìm kiếm hợp nhất',
+  'LBL_LIST_FORM_TITLE' => 'Danh sách hợp nhất',
+  'LBL_LBL_MERGE_RECORDS_STEP_1' => 'Tim kiếm bản ghi để hợp nhất với',
+  'LBL_AVAIL_FIELDS' => 'Có sẵn các lĩnh vực',
+  'LBL_FILTER_COND' => 'Điều kiện lọc',
+  'LBL_MERGE_VALUE_OVER' => 'Hợp nhất giá trị',
+  'LBL_NEXT_STEP_TITLE' => 'Di chuyển sang bước tiếp theo',
+  'LBL_NEXT_STEP_BUTTON_LABEL' => 'Bước tiếp theo >',
+  'LBL_PERFORM_MERGE_BUTTON_TITLE' => 'Thực hiện kết hợp',
+  'LBL_PERFORM_MERGE_BUTTON_KEY' => 'P',
+  'LBL_PERFORM_MERGE_BUTTON_LABEL' => 'Thực hiện kết hợp',
+  'LBL_SAVE_MERGED_RECORD_BUTTON_TITLE' => 'Lưu hợp nhất',
+  'LBL_SAVE_MERGED_RECORD_BUTTON_LABEL' => 'Lưu hợp nhất',
+  'LBL_STEP2_FORM_TITLE' => 'Tìm thấy bản ghi để Hợp nhất với',
+  'LBL_SELECT_ERROR' => 'Bạn phải thực hiện một sự lựa chọn trước khi bạn có thể tiến hành.',
+  'LBL_CHANGE_PARENT' => 'Thiết lập như chính',
+  'LBL_REMOVE_FROM_MERGE' => 'Xóa bỏ',
+  'LBL_DIFF_COL_VALUES' => 'Cột có giá trị trong hàng chính khác với giá trị khi hợp nhất các hàng:',
+  'LBL_SAME_COL_VALUES' => 'Các cột có giá trị tương tự trên tất cả các hàng:',
+  'LBL_DELETE_MESSAGE' => 'Tác vụ này sẽ xoá (các) bản ghi sau:',
+  'LBL_PROCEED' => 'Tiến hành không?',
+  'LBL_STEP1_DIRECTIONS' => 'Tìm các bản ghi trùng lặp có thể xảy ra. Nếu có thể tìm thấy các bản sao trùng lặp, bạn có thể chọn các bản ghi để hợp nhất với bản ghi hiện tại.',
+);
